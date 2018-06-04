@@ -1,0 +1,18 @@
+.site-logo {
+  background: url(../img/ulsa.png) 20% no-repeat;
+  background-size: cover;
+  height: 125px;
+  width: 500px;
+}
+
+.navegador{
+  background-color: white!important;
+}
+
+.boton{
+   padding: 4px;
+   margin-left: 10px!important;
+}
+.titulo-color{
+  color: #9c27b0!important;
+}
